@@ -505,6 +505,12 @@ body {
     width: 100%;
 } 
 
+.btn-primary {
+	 background-color: #ad874f !important;
+  
+}
+
+
 .hide {
   display: none; }
 
