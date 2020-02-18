@@ -8,12 +8,7 @@ header{
 }
 body {
     font-family: 'Lexend Exa', sans-serif;
-    background: url(https://www.toptal.com/designers/subtlepatterns/patterns/footer_lodyas.png);
-    -webkit-animation: 100s scroll infinite linear;
-    -moz-animation: 100s scroll infinite linear;
-    -o-animation: 100s scroll infinite linear;
-    -ms-animation: 100s scroll infinite linear;
-    animation: 100s scroll infinite linear;
+    background:url('../img/wall2.jpg') !important;
     top: 0;
     left: 0;
     width: 100%;

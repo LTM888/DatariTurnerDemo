@@ -1,5 +1,7 @@
 .scrolled {background-color: rgba(0,0,0,.5);}
 
+
+
 .my-nav {
     background-color: black;
 }
@@ -7,7 +9,7 @@
 body {
   margin: 0;
   padding: 0;
-  
+  background:url('../img/wall2.jpg') !important;
 }
 
 .navbar a {
