@@ -340,6 +340,9 @@ img {
     padding-top: 66.6%;
   }
 }
+.card__image--LA1 {
+  background-image: url(../img/press/LATimes.jpg);
+}
 .card__image--bf2 {
   background-image: url(../img/d22.jpg);
 }
