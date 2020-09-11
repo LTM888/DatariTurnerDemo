@@ -343,8 +343,15 @@ img {
 .card__image--deadline2020 {
   background-image: url(../img/press/fox.png);
 }
-.card__image--LA2 {
+.card__image--la3 {
+  background-image: url(../img/home/dataritturner.png);
+}
+.card__image--LA4 {
   background-image: url(../img/press/datariforlatimes.jpg);
+}
+
+.card__image--LA2 {
+  background-image: url(../img/home/dataritturner.png);
 }
 .card__image--LA1 {
   background-image: url(../img/press/LATimes.jpg);
