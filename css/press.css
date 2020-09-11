@@ -340,6 +340,12 @@ img {
     padding-top: 66.6%;
   }
 }
+.card__image--deadline2020 {
+  background-image: url(../img/press/fox.png);
+}
+.card__image--LA2 {
+  background-image: url(../img/press/datariforlatimes.jpg);
+}
 .card__image--LA1 {
   background-image: url(../img/press/LATimes.jpg);
 }
