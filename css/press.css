@@ -340,9 +340,14 @@ img {
     padding-top: 66.6%;
   }
 }
-.card__image--deadline2020 {
-  background-image: url(../img/press/fox.png);
+
+.card__image--hollywood {
+  background-image: url(../img/press/GettyImages-1208314726-H-2020-1598977397.jpeg);
 }
+.card__image--deadline2020 {
+  background-image: url(../img/press/Jamie-Foxx-Kevm-Hart.jpeg)
+}
+
 .card__image--la3 {
   background-image: url(../img/home/dataritturner.png);
 }
